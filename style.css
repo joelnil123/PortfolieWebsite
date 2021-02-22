@@ -85,7 +85,7 @@ nav {
 }
 .MainPage-MySkills {
   position: absolute;
-  top: 135%;
+  top: 145%;
   left: 25%;
   font-size: 1.5rem;
   color: aliceblue;
@@ -201,15 +201,16 @@ a:active {
   color: aliceblue;
 }
 .My_Projects {
-  margin-top: 25%;
+  margin-top: 35%;
   margin-left: 35;
 }
 
 .About_Me {
   font-size: 1.5rem;
   padding-top: 30%;
-  padding-left: 23%;
+  padding-left: 25%;
   margin-right: 30%;
+  margin-bottom: 10px;
 }
 .aboutme_text {
   text-align: center;
