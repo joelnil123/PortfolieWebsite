@@ -18,7 +18,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 5vh;
+  min-height: 7vh;
   padding-left: 5rem;
   background-color: #1f1e1e;
   width: 30000px;
@@ -28,15 +28,21 @@ nav {
   top: 0;
   z-index: 100;
 }
+.Contact_me
+{
+margin-left: 25%;
+}
 .nav-links {
   display: flex;
   font-size: 2rem;
   list-style: none;
-  padding-left: 21%;
+  text-align: center;
   justify-items: center;
   color: aliceblue;
   align-items: center;
-  position: fixed;
+  margin: auto;
+
+
 }
 
 .nav-links_backend {
@@ -202,12 +208,12 @@ a:active {
 }
 .My_Projects {
   margin-top: 35%;
-  margin-left: 35;
+  margin-left: 25%;
 }
 
 .About_Me {
   font-size: 1.5rem;
-  padding-top: 30%;
+  padding-top: 15%;
   padding-left: 25%;
   margin-right: 30%;
   margin-bottom: 10px;
